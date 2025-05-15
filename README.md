@@ -88,7 +88,7 @@ int main(int argc, char *argv[]) {
 ## OUTPUT
 ![alt text](osex04.png)
 
-
+![alt text](os2.png)
 
 # RESULT:
 The programs are executed successfully.
